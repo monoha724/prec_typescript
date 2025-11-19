@@ -3,7 +3,8 @@
     "target": "esnext",
     "module": "esnext",
     "outDir": "dist",
-    "strict": false
+    "strict": false,
+    "moduleDetection": "force"
   },
   "include": ["src"]
 }
